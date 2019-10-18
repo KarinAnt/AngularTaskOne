@@ -1,0 +1,12 @@
+.aside{
+    width: 38%;
+    display: inline-block;
+    background-color: lightslategray;
+    padding: 100px 0;
+    text-align: center;
+    margin-left: 2%;
+}
+.aside>p{
+    font-size: 2.5em;
+    color: white;
+}

@@ -1,0 +1,17 @@
+.header{
+    background-color: darkcyan;
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+.headerButtons{
+    padding: 20px;
+    margin:  0 20px;
+    outline: none;
+    border:none;
+    background-color: darkslategray;
+    font-size: 18px;
+    border-radius: 10px;
+    color: white;
+}
